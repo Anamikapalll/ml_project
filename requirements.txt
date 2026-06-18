@@ -1,0 +1,7 @@
+# Add required packages here, one per line
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter
+# Example: torch==2.0.0
